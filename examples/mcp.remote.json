@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "testhub": {
+      "type": "streamable_http",
+      "url": "https://mcp.api-inference.modelscope.net/<YOUR-DEPLOY-ID>/mcp"
+    }
+  }
+}
